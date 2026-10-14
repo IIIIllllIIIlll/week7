@@ -52,13 +52,13 @@
 ## 3. 실행 화면 캡쳐
 
 ### 과제 1 (`1_pipe`) 실행 화면
-[./screenshots/1_pipe.png]
+<p><img src="./screenshots/1_pipe.png" alt="1_pipe 실행화면" width="750"></p>
 
 ### 과제 2 (`2_pipeline`) 실행 화면
-[./screenshots/2_pipeline.png]
+<p><img src="./screenshots/2_pipeline.png" alt="2_pipeline 실행화면" width="750"></p>
 
 ### 과제 3 (`3_fifo_read` & `4_fifo_write`) 실행 화면
-[./screenshots/3_fifo.png]
+<p><img src="./screenshots/3_fifo.png" alt="3_fifo 실행화면" width="750"></p>
 
 ## 4. AI 사용 관련 내용 및 본인의 보강 내용
 
